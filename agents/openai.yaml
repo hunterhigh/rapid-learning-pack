@@ -1,0 +1,4 @@
+interface:
+  display_name: "快速学习包"
+  short_description: "研究、验证、筛选并编排可快速掌握且完整开放的知识学习包"
+  default_prompt: "Use $rapid-learning-pack to build a complete, source-backed learning package with a clearly prioritized fast path."
